@@ -23,7 +23,7 @@ A responsive React application for browsing and booking travel destinations, wit
 ## 🚀 Live Demo
 
 Experience the app directly:  
-👉
+👉 [Click here to try it out!](https://react-travel-app-ruby.vercel.app/)
 
 ## 🖥️ Installation
 
